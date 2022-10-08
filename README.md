@@ -40,9 +40,13 @@ The definition of tweet data can be found on the twitter website
 ## Datasets
 
 1.**twitter_archive_enhanced.csv**: file as given
+
 2.**image_predictions.tsv**: file downloaded programmatically
+
 3.**tweet_json.txt**: file constructed via API
+
 4.**twitter_archive_master.csv**: combined and cleaned data
+
 5.**image_predictions_tp.csv**: cleaned data
 
 clean_df includes cleaned data, twitter_archive_master.csv and image_predictions_tp.csv
